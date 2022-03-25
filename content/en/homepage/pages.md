@@ -1,10 +1,16 @@
 ---
-title: Blank
+title: Pages
 draft: false
+# Section you want to display
+section: posts
+# Pages count
+count: 5
+# Options: card, plain and masonry.
+style: plain
 
-weight: 5
+weight: 2
 widget:
-  handler: blank
+  handler: pages
 
   # Options: sm, md, lg and xl. Default is md.
   width:
@@ -14,19 +20,15 @@ widget:
     position:
     # Options: sm, md, lg and xl. Default is md.
     scale:
-  
+
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color:
-    image: images/hero-left.jpg
+    image:
     # Options: auto, cover and contain. Default is auto.
-    size: cover
+    size:
     # Options: center, top, right, bottom, left.
     position:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-
-<div style="text-align:center">
-  <p>发展才是硬道理。</p>
-</div>

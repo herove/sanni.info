@@ -1,10 +1,13 @@
 ---
-title: Blank
+title: Vintage
 draft: false
+slogan: We are all in the gutter, but some of us are looking at the stars.
+imgLeft: images/hero-left.jpg
+imgRight: images/hero-right.jpg
 
-weight: 5
+weight: 4
 widget:
-  handler: blank
+  handler: vintage
 
   # Options: sm, md, lg and xl. Default is md.
   width:
@@ -14,19 +17,15 @@ widget:
     position:
     # Options: sm, md, lg and xl. Default is md.
     scale:
-  
+    
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color:
-    image: images/hero-left.jpg
+    color: secondary
+    image:
     # Options: auto, cover and contain. Default is auto.
-    size: cover
+    size:
     # Options: center, top, right, bottom, left.
     position:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-
-<div style="text-align:center">
-  <p>发展才是硬道理。</p>
-</div>

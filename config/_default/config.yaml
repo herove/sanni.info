@@ -1,5 +1,5 @@
 baseURL: /
-title: Sanni Daily
+title: Sunny Talk
 
 # Uncomment when not installing with Hugo Modules
 # theme: eureka
@@ -9,7 +9,7 @@ theme: eureka
 
 paginate: 3
 copyright: >
-  &copy; 2021 <a href="https://sanni.info/">叁尼</a>
+  &copy; 2021 <a href="https://sanni.info/">叁尼曰 Sunny Talk</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
