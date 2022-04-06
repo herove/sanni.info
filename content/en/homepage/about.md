@@ -1,9 +1,9 @@
 ---
-title: 叁尼
+title: Eddie
 draft: false
-role: 攻城狮
+role: Coder
 avatar: images/icon.png
-bio: 精通⼤数据平台和数据智能体系建设、并有丰富的实践经验，有搜索/推荐系统等领域的⾼并发架构设计和规划经验，⽬前主要研究⼤数据、云计算和⼈⼯智能等技术，以及探索相关技术应⽤在⼤健康、政务、⾦融保险等产业的融合创新和赋能升级。
+bio: 
 
 social:
   - icon: envelope
